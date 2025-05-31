@@ -36,6 +36,8 @@ PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
+PACKAGES="$PACKAGES luci-app-nps_1.1-r4_all.ipk"
+PACKAGES="$PACKAGES luci-app-zerotier_25.116.62431~e7f6f1e_all.ipk"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 # 增加几个必备组件 方便用户安装iStore
